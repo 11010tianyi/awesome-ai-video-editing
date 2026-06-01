@@ -1,0 +1,28 @@
+{
+  "name": "remotion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "npx remotion preview src/index.ts",
+    "render": "npx remotion render src/index.ts MainVideo output.mp4",
+    "render-all": "npx tsx render-all.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/bundler": "^4.0.470",
+    "@remotion/cli": "^4.0.470",
+    "@types/react": "^19.2.15",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "remotion": "^4.0.470",
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.22.4"
+  }
+}
