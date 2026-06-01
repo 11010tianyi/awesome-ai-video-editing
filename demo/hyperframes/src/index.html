@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>数据可视化视频</title>
+  <!-- GSAP 动画库 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      width: 1920px;
+      height: 1080px;
+      overflow: hidden;
+      background: #0a0a23;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    /* 合成容器 - data-composition-id 定义合成 ID */
+    <div class="clip" data-composition-id="data-viz" data-width="1920" data-height="1080">
+
+    /* 标题区域 - data-start=0.5 表示 0.5 秒后出现 */
+    <div class="title" data-start="0" data-duration="2">
+      <h1>AI 视频生成技术</h1>
+      <p class="subtitle">2024-2025 技术趋势分析</p>
+    </div>
+
+    /* 数据图表区域 - data-start=2 表示 2 秒后出现 */
+    <div class="chart" data-start="2" data-duration="3">
+      <div class="chart-container">
+        <div class="bar" data-value="85" data-delay="0.1">
+          <div class="bar-fill" style="--height: 85%;"></div>
+          <span class="bar-label">文本生成</span>
+        </div>
+        <div class="bar" data-value="72" data-delay="0.2">
+          <div class="bar-fill" style="--height: 72%;"></div>
+          <span class="bar-label">图像生成</span>
+        </div>
+        <div class="bar" data-value="95" data-delay="0.3">
+          <div class="bar-fill" style="--height: 95%;"></div>
+          <span class="bar-label">视频生成</span>
+        </div>
+        <div class="bar" data-value="60" data-delay="0.4">
+          <div class="bar-fill" style="--height: 60%;"></div>
+          <span class="bar-label">音频生成</span>
+        </div>
+      </div>
+    </div>
+
+    /* 结尾区域 - data-start=5 表示 5 秒后出现 */
+    <div class="outro" data-start="5" data-duration="2">
+      <div class="logo">AI VIDEO</div>
+      <p class="slogan">让视频创作更智能</p>
+    </div>
+
+    </div><!-- /clip -->
+
+    <script>
+      // GSAP 动画注册 - 必须调用 registerEffect
+      gsap.registerEffect({
+        name: "fadeInUp",
+        effect: (targets, config) => {
+          return gsap.from(targets, {
+            y: 50,
+            opacity: 0,
+            duration: config.duration || 1,
+            delay: config.delay || 0,
+            ease: "power2.out"
+          });
+        },
+        defaults: { duration: 1, delay: 0 }
+      });
+
+      // 标题动画
+      gsap.fromTo('.title', 
+        { y: 50, opacity: 0 },
+        { y: 0, opacity: 1, duration: 1, delay: 0.5 }
+      );
+
+      // 柱状图动画 - 从底部生长
+      document.querySelectorAll('.bar-fill').forEach((bar, i) => {
+        gsap.to(bar, {
+          height: bar.style.getPropertyValue('--height'),
+          duration: 1.2,
+          delay: 2 + (i * 0.15),
+          ease: "power3.out"
+        });
+      });
+
+      // 结尾淡入
+      gsap.fromTo('.outro',
+        { scale: 0.9, opacity: 0 },
+        { scale: 1, opacity: 1, duration: 1, delay: 5 }
+      );
+    </script>
+  </body>
+</html>

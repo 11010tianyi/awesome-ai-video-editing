@@ -1,0 +1,16 @@
+{
+  "name": "hyperframes-demo",
+  "version": "1.0.0",
+  "description": "HyperFrames 数据可视化视频 Demo",
+  "scripts": {
+    "preview": "npx hyperframes preview",
+    "render": "npx hyperframes render",
+    "validate": "npx hyperframes validate",
+    "init": "npx hyperframes init"
+  },
+  "keywords": ["hyperframes", "video", "html-to-video", "gsap", "puppeteer"],
+  "license": "MIT",
+  "devDependencies": {
+    "hyperframes": "^1.0.0"
+  }
+}
