@@ -80,6 +80,7 @@
 |:---|:---|:---|:---|:---|:---:|
 | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 开源 | 一键生成高清短视频（53k+ Stars），AI 脚本+配音+字幕+素材全自动 | Win/Mac/Linux | 免费 | 10/10 |
 | [剪映/CapCut](https://www.capcut.com/) | 桌面+移动 | 字节出品，AI 图文成片、智能字幕、一键成片，国内短视频生态标配 | 全平台 | 免费 | 10/10 |
+| [videos.social](https://videos.social/?utm_source=11010tianyi-awesome-ai-video-editing&utm_medium=directory&utm_campaign=listing-wave-d) | 网页 | Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. | Web | Freemium | 8/10 |
 | [度加剪辑](https://www.dujiajia.com/) | 桌面+移动 | 百度出品，文字生成视频、智能素材匹配、AI 字幕 | Win/Mac/手机 | 免费 | 9/10 |
 | [二剪助手](https://github.com/harry0703/MoneyPrinterTurbo) | 桌面+小程序 | 多视频混剪、批量组合、单视频重组，矩阵运营利器 | Win/Mac/网页 | 免费+付费 | 7.5/10 |
 | [随心剪](https://www.suixinjian.com/) | 桌面 | 批量剪辑、AI 文案、智能分镜，商业化剪辑工具 | Win/Mac | 付费 | 7.5/10 |
