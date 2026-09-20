@@ -139,6 +139,7 @@
 | 工具 | 类型 | 核心能力 | 技术栈 | 相关性 |
 |:---|:---|:---|:---|:---:|
 | [Hyperframes](https://github.com/heygen-com/hyperframes) | 开源+AI 辅助 | 写 HTML、渲染视频，定位 Agent 友好的 AI 视频代码生成框架 | TypeScript, HTML/CSS | 8.5/10 |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | 开源+Agent 工具链 | 通过 Skills、CLI 和 MCP 驱动视频编排、生成、剪辑与确定性交付检查，核心流程无需 API Key | TypeScript, CLI/MCP | 9/10 |
 
 #### 技术动画与可视化
 
