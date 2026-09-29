@@ -84,6 +84,7 @@
 | [度加剪辑](https://www.dujiajia.com/) | 桌面+移动 | 百度出品，文字生成视频、智能素材匹配、AI 字幕 | Win/Mac/手机 | 免费 | 9/10 |
 | [二剪助手](https://github.com/harry0703/MoneyPrinterTurbo) | 桌面+小程序 | 多视频混剪、批量组合、单视频重组，矩阵运营利器 | Win/Mac/网页 | 免费+付费 | 7.5/10 |
 | [随心剪](https://www.suixinjian.com/) | 桌面 | 批量剪辑、AI 文案、智能分镜，商业化剪辑工具 | Win/Mac | 付费 | 7.5/10 |
+| [剪灵/SoulCut](https://github.com/0xhappyboy/SoulCut/releases/latest) | 桌面 | 一款免费的非线性音视频编辑系统, 内置了多种视频特效（如特效、滤镜、转场和运镜效果）,并支持利用锚点、时间戳和关键帧实现线性动画功能, 支持LLM对时间线中轨道块的控制. | Windows/MacOS/Linux | 免费 | 7/10 |
 
 #### 剪辑辅助提效（单点增强）
 
