@@ -83,6 +83,9 @@
 | [videos.social](https://videos.social/?utm_source=11010tianyi-awesome-ai-video-editing&utm_medium=directory&utm_campaign=listing-wave-d) | 网页 | Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. | Web | Freemium | 8/10 |
 | [度加剪辑](https://www.dujiajia.com/) | 桌面+移动 | 百度出品，文字生成视频、智能素材匹配、AI 字幕 | Win/Mac/手机 | 免费 | 9/10 |
 | [二剪助手](https://github.com/harry0703/MoneyPrinterTurbo) | 桌面+小程序 | 多视频混剪、批量组合、单视频重组，矩阵运营利器 | Win/Mac/网页 | 免费+付费 | 7.5/10 |
+| [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | 网页 | 一张照片→13s 21:9 独舞 AI 视频（非官方，与 Riot/K/DA 无关） | Web | 付费 $7.99 起 | 8/10 |
+| [A2O LITE NEON AI Dance](https://a2oliteai.org) | 网页 | 两张照片→15s 霓虹双人舞 + 参考配乐 | Web | 付费 $7.99 起 | 8/10 |
+| [dime dime baby ai](https://dimedimebabyai.dev) | 网页 | 一张照片→约5s 9:16 AI 舞蹈视频 | Web | 付费 $7.99 起 | 8/10 |
 | [随心剪](https://www.suixinjian.com/) | 桌面 | 批量剪辑、AI 文案、智能分镜，商业化剪辑工具 | Win/Mac | 付费 | 7.5/10 |
 
 #### 剪辑辅助提效（单点增强）
