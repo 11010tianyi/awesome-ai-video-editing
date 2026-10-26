@@ -340,3 +340,7 @@ awesome-ai-video-editing/
 
 *最后更新：2026 年 6 月*
 *整理者：AI 视频剪辑提效工具全景图谱项目*
+
+## AI Meme / Image-to-Video Tools
+
+- [Ideoy](https://ideoy.ai) - Remake this week's memes with one selfie (AI image-to-video, freemium, adults only, AI-labeled).
