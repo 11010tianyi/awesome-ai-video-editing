@@ -115,6 +115,9 @@
 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
 | [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
+| [KDA Firestarter AI Dance AI Dance Dance](https://kdafirestarterai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://kdafirestarterai.dev) |
+| [A2O LITE NEON AI Dance AI Dance](https://a2oliteai.org) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://a2oliteai.org) |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://dimedimebabyai.dev) |
 | [Pika Labs](https://pika.art/) | 网页 | 视频生成、风格转换、视频延长，创意特效 | 网页 | 免费+付费 | 8.5/10 |
 | [可灵 AI](https://klingai.com/) | 网页+移动 | 快手可灵，国产视频生成强者，图生视频、视频编辑 | 网页/手机 | 免费+付费 | 8/10 |
 | [即梦 AI](https://jimeng.jianying.com/) | 网页+移动 | 字节出品，视频生成与编辑，与剪映生态联动 | 网页/手机 | 免费+付费 | 7.5/10 |
