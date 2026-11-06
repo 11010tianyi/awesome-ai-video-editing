@@ -112,6 +112,9 @@
 | [Runway Gen-2/3](https://runwayml.com/) | 网页 | AI 视频生成与编辑标杆，文本生成视频、绿幕抠像、视频延长 | 网页 | 付费 | 8.5/10 |
 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium | [Visit](https://promptimage.cloud) |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium | [Visit](https://grokvideogenerator.dev) |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
 | [Pika Labs](https://pika.art/) | 网页 | 视频生成、风格转换、视频延长，创意特效 | 网页 | 免费+付费 | 8.5/10 |
 | [可灵 AI](https://klingai.com/) | 网页+移动 | 快手可灵，国产视频生成强者，图生视频、视频编辑 | 网页/手机 | 免费+付费 | 8/10 |
 | [即梦 AI](https://jimeng.jianying.com/) | 网页+移动 | 字节出品，视频生成与编辑，与剪映生态联动 | 网页/手机 | 免费+付费 | 7.5/10 |
