@@ -96,6 +96,7 @@
 | [度加剪辑](https://www.dujiajia.com/) | 桌面+移动 | 百度出品，文字生成视频、智能素材匹配、AI 字幕 | Win/Mac/手机 | 免费 | 9/10 |
 | [二剪助手](https://github.com/harry0703/MoneyPrinterTurbo) | 桌面+小程序 | 多视频混剪、批量组合、单视频重组，矩阵运营利器 | Win/Mac/网页 | 免费+付费 | 7.5/10 |
 | [随心剪](https://www.suixinjian.com/) | 桌面 | 批量剪辑、AI 文案、智能分镜，商业化剪辑工具 | Win/Mac | 付费 | 7.5/10 |
+| [Clips Kitty](https://github.com/ColinGPT9/clips-studio) | 开源 | 把长视频和 Twitch/Kick/YouTube 直播回放切成带字幕的 9:16 竖屏短视频：本地 Whisper 转写、本地大模型挑选高光、说话人跟踪裁切，全部在自己电脑上运行（AGPL-3.0） | Windows | 免费 | 8/10 |
 
 #### 剪辑辅助提效（单点增强）
 
