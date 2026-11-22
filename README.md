@@ -46,7 +46,7 @@
 | 用户类型 | 典型需求 | 推荐方向 |
 |:---|:---|:---|
 | **生活 Vlog 创作者** | 快速出片、自动字幕、智能配乐 | 剪映 AI、度加剪辑、AutoCut |
-| **短视频矩阵运营** | 批量混剪、模板化生产、多平台适配 | 二剪助手、MoneyPrinterTurbo、随心剪 |
+| **短视频矩阵运营** | 批量混剪、模板化生产、多平台适配 | 二剪助手、MoneyPrinterTurbo |
 | **知识类/教程博主** | 口播剪辑、字幕生成、内容结构化 | Descript、FunClip、Video-subtitle-master |
 | **影视后期爱好者** | 画质增强、风格迁移、特效合成 | Video2X、Runway、DaVinci Resolve AI |
 | **开发者/技术创作者** | 数据视频、技术动画、批量生成、Agent 自动化 | Remotion、Motion Canvas、Hyperframes、Manim |
@@ -93,9 +93,12 @@
 | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 开源 | 一键生成高清短视频（53k+ Stars），AI 脚本+配音+字幕+素材全自动 | Win/Mac/Linux | 免费 | 10/10 |
 | [剪映/CapCut](https://www.capcut.com/) | 桌面+移动 | 字节出品，AI 图文成片、智能字幕、一键成片，国内短视频生态标配 | 全平台 | 免费 | 10/10 |
 | [videos.social](https://videos.social/?utm_source=11010tianyi-awesome-ai-video-editing&utm_medium=directory&utm_campaign=listing-wave-d) | 网页 | Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. | Web | Freemium | 8/10 |
-| [度加剪辑](https://www.dujiajia.com/) | 桌面+移动 | 百度出品，文字生成视频、智能素材匹配、AI 字幕 | Win/Mac/手机 | 免费 | 9/10 |
-| [二剪助手](https://github.com/harry0703/MoneyPrinterTurbo) | 桌面+小程序 | 多视频混剪、批量组合、单视频重组，矩阵运营利器 | Win/Mac/网页 | 免费+付费 | 7.5/10 |
-| [随心剪](https://www.suixinjian.com/) | 桌面 | 批量剪辑、AI 文案、智能分镜，商业化剪辑工具 | Win/Mac | 付费 | 7.5/10 |
+| [度加剪辑](https://aigc.baidu.com/) | 桌面+移动 | 百度出品，文字生成视频、智能素材匹配、AI 字幕 | Win/Mac/手机 | 免费 | 9/10 |
+| [二剪助手](https://erjian.tsiji.com/) | 桌面+小程序 | 多视频混剪、批量组合、单视频重组，矩阵运营利器 | Win/Mac/网页 | 免费+付费 | 7.5/10 |
+| [NarratoAI](https://github.com/linyqh/NarratoAI) | 开源 | 利用 AI 大模型一键解说并剪辑视频，影视解说自动化（11.9k Stars，2026-11-21 仍在更新） | Win/Mac/Linux | 免费 | 8.5/10 |
+| [OpenCreator](https://github.com/krillinai/OpenCreator) | 开源 | 原 KrillinAI，120+ 语言视频翻译与配音，Agent 驱动的创作者 AI 工作台（14.4k Stars，2026-11-22 仍在更新） | Win/Mac/Linux | 免费 | 8.5/10 |
+| [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | 开源 | 一键生成产品营销与泛内容短视频，AI 批量自动剪辑，跨平台桌面端（6.2k Stars，2025-07 建仓，2026-11-21 仍在更新） | Win/Mac/Linux | 免费 | 8/10 |
+| [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 开源 | 短剧、漫剧制作工具，集成剧本创作、智能分镜、角色与场景资产管理与视频生成（22.4k Stars，2026-01 建仓，2026-11-22 仍在更新） | Win/Mac/Linux | 免费 | 8.5/10 |
 
 #### 剪辑辅助提效（单点增强）
 
@@ -132,6 +135,7 @@
 |:---|:---|:---|:---|:---|:---:|
 | [FFmpeg](https://ffmpeg.org/) | 开源 | 视频处理底层工具之王，批量转换/压缩/处理 | 全平台 | 免费 | 7/10 |
 | [LosslessCut](https://github.com/mifi/lossless-cut) | 开源 | 无损视频剪切，快速剪辑，保留原始画质 | Win/Mac/Linux | 免费 | 7/10 |
+| [pyJianYingDraft](https://github.com/GuanYixuan/pyJianYingDraft) | 开源 | Python 剪映草稿生成及导出工具，构建全自动化视频剪辑/混剪流水线（4.9k Stars，2026-11-22 仍在更新） | Win/Mac/Linux | 免费 | 8/10 |
 | [HandBrake](https://handbrake.fr/) | 开源 | 视频压缩、格式转换，开源免费 | 全平台 | 免费 | 6.5/10 |
 
 ---
@@ -152,6 +156,8 @@
 |:---|:---|:---|:---|:---:|
 | [Hyperframes](https://github.com/heygen-com/hyperframes) | 开源+AI 辅助 | 写 HTML、渲染视频，定位 Agent 友好的 AI 视频代码生成框架 | TypeScript, HTML/CSS | 8.5/10 |
 | [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | 开源+Agent 工具链 | 通过 Skills、CLI 和 MCP 驱动视频编排、生成、剪辑与确定性交付检查，核心流程无需 API Key | TypeScript, CLI/MCP | 9/10 |
+| [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 开源+Agent 技能 | 面向 Claude Code 与 Codex 的 AI 视频技能，基于 Remotion 做可编辑的产品宣传片，含 124 张镜头配方卡与剪映导出（21.9k Stars，2026-07 建仓，2026-11-22 仍在更新） | TypeScript, Remotion | 9/10 |
+| [OpenMotion](https://github.com/nexu-io/openmotion) | 开源+Agent 工具链 | 开源 Agentic 视频工作室，把参考视频变成可编辑的品牌动态图形并导出 MP4，支持 22 种 Agent（14.7k Stars，2026-05 建仓，2026-11-22 仍在更新） | TypeScript, HTML | 8.5/10 |
 
 #### 技术动画与可视化
 
@@ -367,6 +373,6 @@ awesome-ai-video-editing/
 
 ---
 
-*索引更新：2026-11-11。新增电影级短剧学习文档（v0.1，原文写于 2026-11-07），并补上仓库里已有的 `demo/remotion`、`demo/hyperframes` 入口。*
+*索引更新：2026-11-22。本次全量验活 README 与资源集外链，修正二剪助手（原误链 MoneyPrinterTurbo，改为其官网）、度加剪辑（改为百度 AIGC 入口）与万兴喵影链接，删除两轮实测不可达且无可验证官方替代入口的随心剪条目，并新增 NarratoAI、OpenCreator、short-video-factory、Toonflow-app、pyJianYingDraft、video-shotcraft、OpenMotion 共 7 条（Star 数为 2026-11-22 连接器实测）。此前 2026-11-11 版新增电影级短剧学习文档（v0.1，原文写于 2026-11-07），并补上仓库里已有的 `demo/remotion`、`demo/hyperframes` 入口。*
 *工具全景图主体整理于 2026 年 6 月。其后 README 收录了 OrkasVideoStudio（2026-07-30 提交，2026-09-20 合并）和 videos.social（2026-08-16 提交，2026-09-20 合并）。两份工具清单仍分别标注 2025 年 1 月、2026 年 6 月 1 日，本次未重查。*
 *整理者：AI 视频剪辑提效工具全景图谱项目*

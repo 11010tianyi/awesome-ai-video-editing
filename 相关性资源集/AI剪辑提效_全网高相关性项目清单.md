@@ -3,7 +3,7 @@
 > **说明**：本文档以本仓库「AI 视频剪辑提效工具全景图谱」定位为锚点，汇总主题高度相关的开源项目、在线工具、桌面软件与移动端应用，并补充同类高相关条目。  
 > **排序规则**：按 **与本项目主题的相关性得分（10 分制，高→低）** 降序排列；同分按「开源项目 → 在线工具 → 桌面软件 → 移动端 App」大致分组。
 >
-> **状态（2026-11-11）**：下面的排序和条目仍是 2025 年 1 月的整理，本次没有重查，也没有改工具表。仓库 README 在此之后另外写进了 [videos.social](https://videos.social/)。程序化视频生成不在本清单里。电影级短剧的入门学习路径见 [AI电影短剧制作学习文档](../docs/AI电影短剧制作学习文档.md)。
+> **状态（2026-11-22）**：下面的排序和条目主体仍是 2025 年 1 月的整理；2026-11-22 做了一轮外链验活：修正度加剪辑（改为百度 AIGC 入口 https://aigc.baidu.com/）、万兴喵影（改为国际站）与二剪助手（补官网链接）三处链接，删除两轮实测不可达且无可验证官方替代入口的随心剪、快影（官网链接）、智影、清影四条（快影的 App 条目无链接，保留）。仓库 README 在此之后另外写进了 [videos.social](https://videos.social/)。程序化视频生成不在本清单里。电影级短剧的入门学习路径见 [AI电影短剧制作学习文档](../docs/AI电影短剧制作学习文档.md)。
 
 **相关性打分维度（综合）**  
 1. 是否直接解决 **AI 视频剪辑提效** 核心问题（自动剪辑、字幕生成、批量处理等）；  
@@ -26,7 +26,7 @@
 | 6 | **9.5/10** | **Descript** | 桌面+网页 | https://www.descript.com/ | 文本编辑视频标杆，语音克隆 Overdub，播客/口播剪辑神器 |
 | 7 | **9/10** | **Video2X** | 开源 | https://github.com/k4yt3x/video2x | AI 视频超分辨率增强，2024 升级版提速 40%，画质修复首选 |
 | 8 | **9/10** | **FaceFusion** | 开源 | https://github.com/facefusion/facefusion | AI 换脸+人脸增强，效果惊艳，支持图片/视频换脸 |
-| 9 | **9/10** | **度加剪辑** | 桌面+移动 | https://www.dujiajia.com/ | 百度出品，文字生成视频、智能素材匹配、AI 字幕 |
+| 9 | **9/10** | **度加剪辑** | 桌面+移动 | https://aigc.baidu.com/ | 百度出品，文字生成视频、智能素材匹配、AI 字幕 |
 | 10 | **8.5/10** | **Runway Gen-2/3** | 网页 | https://runwayml.com/ | AI 视频生成与编辑标杆，文本生成视频、绿幕抠像、视频延长 |
 | 11 | **8.5/10** | **DaVinci Resolve** | 桌面 | https://www.blackmagicdesign.com/products/davinciresolve | 专业级免费剪辑软件，NeuralCut AI 剪辑、调色行业标杆 |
 | 12 | **8.5/10** | **Pika Labs** | 网页 | https://pika.art/ | 视频生成与编辑，风格转换，视频延长，创意特效 |
@@ -36,26 +36,22 @@
 | 16 | **8/10** | **必剪** | 桌面+移动 | https://bcut.bilibili.cn/ | B站官方剪辑工具，AI 绿幕抠像、鬼畜动画生成 |
 | 17 | **7.5/10** | **OpenShot** | 开源 | https://www.openshot.org/ | 跨平台开源视频编辑器，简单易用，适合入门 |
 | 18 | **7.5/10** | **即梦 AI** | 网页+移动 | https://jimeng.jianying.com/ | 字节出品，视频生成与编辑，与剪映生态联动 |
-| 19 | **7.5/10** | **二剪助手** | 桌面+小程序 | （微信小程序搜索） | 多视频混剪、批量组合、单视频重组，矩阵运营利器 |
-| 20 | **7.5/10** | **随心剪** | 桌面 | https://www.suixinjian.com/ | 批量剪辑、AI 文案、智能分镜，商业化剪辑工具 |
-| 21 | **7/10** | **Topaz Video AI** | 桌面 | https://www.topazlabs.com/topaz-video-ai | 专业级视频增强、去模糊、慢动作补帧 |
-| 22 | **7/10** | **LosslessCut** | 开源 | https://github.com/mifi/lossless-cut | 无损视频剪切，快速剪辑，保留原始画质 |
-| 23 | **7/10** | **FFmpeg** | 开源 | https://ffmpeg.org/ | 视频处理底层工具之王，批量转换/压缩/处理 |
-| 24 | **7/10** | **快影** | 移动 | https://www.kuaiying.com/ | 快手出品，智能字幕、自动配乐、模板剪辑 |
-| 25 | **6.5/10** | **Kdenlive** | 开源 | https://kdenlive.org/ | KDE 出品开源视频编辑器，功能全面，专业级 |
-| 26 | **6.5/10** | **Olive Video Editor** | 开源 | https://www.olivevideoeditor.org/ | 新兴开源视频编辑器，非线性编辑，现代化界面 |
-| 27 | **6.5/10** | **Shotcut** | 开源 | https://www.shotcut.org/ | 免费开源跨平台编辑器，支持 4K/RAW |
-| 28 | **6.5/10** | **HandBrake** | 开源 | https://handbrake.fr/ | 视频压缩、格式转换，开源免费 |
-| 29 | **6/10** | **Adobe Premiere Pro** | 桌面 | https://www.adobe.com/products/premiere.html | 专业剪辑天花板，AI 功能逐步增强 |
-| 30 | **6/10** | **Adobe Firefly Video** | 网页 | https://www.adobe.com/products/firefly.html | Adobe AI 视频编辑与生成工具 |
-| 31 | **6/10** | **万兴喵影 (Filmora)** | 桌面 | https://filmora.wondershare.cn/ | 国产剪辑软件，AI 功能丰富，适合新手 |
-| 32 | **6/10** | **智影** | 网页 | https://zenvideo.qq.com/ | 腾讯出品，云端剪辑，AI 字幕与配音 |
-| 33 | **6/10** | **来画** | 网页+移动 | https://www.laihua.com/ | AI 动画视频制作，数字人播报 |
-| 34 | **5.5/10** | **Sora** | 网页 | https://openai.com/sora | OpenAI 视频生成模型，文本生成高质量视频 |
-| 35 | **5.5/10** | **Stable Video** | 网页 | https://www.stablevideo.com/ | Stability AI 视频生成工具 |
-| 36 | **5.5/10** | **Luma Dream Machine** | 网页 | https://lumalabs.ai/dream-machine | Luma AI 视频生成，快速生成高质量视频 |
-| 37 | **5.5/10** | **Vidu** | 网页 | https://www.vidu.com/ | 国产视频生成大模型 |
-| 38 | **5.5/10** | **清影** | 网页 | https://qingying.baidu.com/ | 百度视频生成工具 |
+| 19 | **7.5/10** | **二剪助手** | 桌面+小程序 | https://erjian.tsiji.com/ | 多视频混剪、批量组合、单视频重组，矩阵运营利器 |
+| 20 | **7/10** | **Topaz Video AI** | 桌面 | https://www.topazlabs.com/topaz-video-ai | 专业级视频增强、去模糊、慢动作补帧 |
+| 21 | **7/10** | **LosslessCut** | 开源 | https://github.com/mifi/lossless-cut | 无损视频剪切，快速剪辑，保留原始画质 |
+| 22 | **7/10** | **FFmpeg** | 开源 | https://ffmpeg.org/ | 视频处理底层工具之王，批量转换/压缩/处理 |
+| 23 | **6.5/10** | **Kdenlive** | 开源 | https://kdenlive.org/ | KDE 出品开源视频编辑器，功能全面，专业级 |
+| 24 | **6.5/10** | **Olive Video Editor** | 开源 | https://www.olivevideoeditor.org/ | 新兴开源视频编辑器，非线性编辑，现代化界面 |
+| 25 | **6.5/10** | **Shotcut** | 开源 | https://www.shotcut.org/ | 免费开源跨平台编辑器，支持 4K/RAW |
+| 26 | **6.5/10** | **HandBrake** | 开源 | https://handbrake.fr/ | 视频压缩、格式转换，开源免费 |
+| 27 | **6/10** | **Adobe Premiere Pro** | 桌面 | https://www.adobe.com/products/premiere.html | 专业剪辑天花板，AI 功能逐步增强 |
+| 28 | **6/10** | **Adobe Firefly Video** | 网页 | https://www.adobe.com/products/firefly.html | Adobe AI 视频编辑与生成工具 |
+| 29 | **6/10** | **万兴喵影 (Filmora)** | 桌面 | https://filmora.wondershare.com/ | 国产剪辑软件，AI 功能丰富，适合新手 |
+| 30 | **6/10** | **来画** | 网页+移动 | https://www.laihua.com/ | AI 动画视频制作，数字人播报 |
+| 31 | **5.5/10** | **Sora** | 网页 | https://openai.com/sora | OpenAI 视频生成模型，文本生成高质量视频 |
+| 32 | **5.5/10** | **Stable Video** | 网页 | https://www.stablevideo.com/ | Stability AI 视频生成工具 |
+| 33 | **5.5/10** | **Luma Dream Machine** | 网页 | https://lumalabs.ai/dream-machine | Luma AI 视频生成，快速生成高质量视频 |
+| 34 | **5.5/10** | **Vidu** | 网页 | https://www.vidu.com/ | 国产视频生成大模型 |
 
 ---
 
@@ -124,26 +120,23 @@
 | 可灵 AI | https://klingai.com/ | 图生视频、视频生成、视频编辑 | 免费+付费 |
 | 即梦 AI | https://jimeng.jianying.com/ | 视频生成、智能剪辑 | 免费+付费 |
 | Adobe Firefly Video | https://www.adobe.com/products/firefly.html | AI 视频编辑与生成 | 付费订阅 |
-| 智影 | https://zenvideo.qq.com/ | 云端剪辑、AI 字幕与配音 | 免费+付费 |
 | 来画 | https://www.laihua.com/ | AI 动画视频、数字人 | 付费订阅 |
 | Sora | https://openai.com/sora | 文本生成视频 | 待开放 |
 | Stable Video | https://www.stablevideo.com/ | 视频生成 | 免费+付费 |
 | Luma Dream Machine | https://lumalabs.ai/dream-machine | 视频生成 | 免费+付费 |
 | Vidu | https://www.vidu.com/ | 视频生成 | 待开放 |
-| 清影 | https://qingying.baidu.com/ | 视频生成 | 免费+付费 |
 
 ### 桌面软件（Win/Mac/Linux）
 
 | 项目 | 主要入口 | 核心功能 | 价格模式 |
 |:---|:---|:---|:---|
 | 剪映/CapCut | https://www.capcut.com/ | AI 图文成片、智能字幕、一键成片 | 免费 |
-| 度加剪辑 | https://www.dujiajia.com/ | 文字生成视频、智能素材匹配 | 免费 |
+| 度加剪辑 | https://aigc.baidu.com/ | 文字生成视频、智能素材匹配 | 免费 |
 | DaVinci Resolve | https://www.blackmagicdesign.com/products/davinciresolve | NeuralCut AI 剪辑、专业调色 | 免费+付费 Studio |
 | Adobe Premiere Pro | https://www.adobe.com/products/premiere.html | 专业剪辑、AI 功能增强 | 付费订阅 |
 | 必剪 | https://bcut.bilibili.cn/ | AI 绿幕抠像、鬼畜动画 | 免费 |
-| 随心剪 | https://www.suixinjian.com/ | 批量剪辑、AI 文案、矩阵运营 | 付费 |
 | Topaz Video AI | https://www.topazlabs.com/topaz-video-ai | 视频增强、去模糊、慢动作 | 付费 |
-| 万兴喵影 (Filmora) | https://filmora.wondershare.cn/ | AI 剪辑功能、适合新手 | 免费+付费 |
+| 万兴喵影 (Filmora) | https://filmora.wondershare.com/ | AI 剪辑功能、适合新手 | 免费+付费 |
 | Descript | https://www.descript.com/ | 文本编辑视频、语音克隆 | 免费+付费 |
 | 二剪助手 | 微信小程序 | 多视频混剪、批量组合 | 免费+付费 |
 
@@ -166,7 +159,7 @@
 
 - **MoneyPrinterTurbo**：https://github.com/harry0703/MoneyPrinterTurbo — 53k+ Stars，AI 一键生成高清短视频。输入标题即可自动生成脚本、配音、字幕和视频素材，矩阵号/批量生产神器。  
 - **剪映/CapCut**：https://www.capcut.com/ — 字节出品，国内短视频生态标配。AI 图文成片功能强大，输入文案自动匹配素材、字幕、配音、配乐，完全免费。  
-- **度加剪辑**：https://www.dujiajia.com/ — 百度出品，依托文心大模型，文字生成视频能力强，智能素材匹配精准。
+- **度加剪辑**：https://aigc.baidu.com/ — 百度出品，依托文心大模型，文字生成视频能力强，智能素材匹配精准。
 
 ### 剪辑辅助提效（单点增强）
 
