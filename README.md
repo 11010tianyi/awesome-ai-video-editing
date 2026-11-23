@@ -99,6 +99,10 @@
 | [OpenCreator](https://github.com/krillinai/OpenCreator) | 开源 | 原 KrillinAI，120+ 语言视频翻译与配音，Agent 驱动的创作者 AI 工作台（14.4k Stars，2026-11-22 仍在更新） | Win/Mac/Linux | 免费 | 8.5/10 |
 | [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | 开源 | 一键生成产品营销与泛内容短视频，AI 批量自动剪辑，跨平台桌面端（6.2k Stars，2025-07 建仓，2026-11-21 仍在更新） | Win/Mac/Linux | 免费 | 8/10 |
 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 开源 | 短剧、漫剧制作工具，集成剧本创作、智能分镜、角色与场景资产管理与视频生成（22.4k Stars，2026-01 建仓，2026-11-22 仍在更新） | Win/Mac/Linux | 免费 | 8.5/10 |
+| [RemakeThat](https://remakethat.com/) | 网页 | 爆款视频改写带货：粘贴 TikTok/Facebook 爆款链接，AI 写原创脚本并生成无脸 AI 达人翻拍 | Web | 付费 | 7.5/10 |
+| [Clips Kitty](https://github.com/ColinGPT9/clips-studio) | 开源 | 把长视频和 Twitch/Kick/YouTube 直播回放切成带字幕的 9:16 竖屏短视频：本地 Whisper 转写、本地大模型挑选高光、说话人跟踪裁切，全部在自己电脑上运行（AGPL-3.0） | Windows | 免费 | 8/10 |
+| [剪灵/SoulCut](https://github.com/0xhappyboy/SoulCut/releases/latest) | 桌面 | 一款免费的非线性音视频编辑系统, 内置了多种视频特效（如特效、滤镜、转场和运镜效果）,并支持利用锚点、时间戳和关键帧实现线性动画功能, 支持LLM对时间线中轨道块的控制. | Windows/MacOS/Linux | 免费 | 7/10 |
+| [shortshort](https://www.shortshort.io/) | 网页 | 上传一段长视频（演讲、播客、课程），按完整句子选出 15–90 秒片段，跟随人脸重构为 9:16 竖屏并加逐词字幕，导出 1080×1920 MP4 | 网页 | 免费+付费 | 7/10 |
 
 #### 剪辑辅助提效（单点增强）
 
