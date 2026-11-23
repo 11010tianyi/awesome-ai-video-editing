@@ -128,9 +128,9 @@
 |:---|:---|:---|:---|:---|:---:|
 | [FaceFusion](https://github.com/facefusion/facefusion) | 开源 | AI 换脸+人脸增强，效果惊艳，支持图片/视频换脸 | Win/Mac/Linux | 免费 | 9/10 |
 | [Roop](https://github.com/s0md3v/roop) | 开源 | 单图换脸工具，操作简单，效果自然 | Win/Mac/Linux | 免费 | 8/10 |
-| [Runway Gen-2/3](https://runwayml.com/) | 网页 | AI 视频生成与编辑标杆，文本生成视频、绿幕抠像、视频延长 | 网页 | 付费 | 8.5/10 |
-| [Pika Labs](https://pika.art/) | 网页 | 视频生成、风格转换、视频延长，创意特效 | 网页 | 免费+付费 | 8.5/10 |
-| [可灵 AI](https://klingai.com/) | 网页+移动 | 快手可灵，国产视频生成强者，图生视频、视频编辑 | 网页/手机 | 免费+付费 | 8/10 |
+| [Runway Gen-2/3](https://runwayml.com/) | 网页 | AI 视频生成与编辑标杆，文本生成视频、绿幕抠像、视频延长；Agent/MCP：https://runway.com/mcp | 网页 | 付费 | 8.5/10 |
+| [Pika Labs](https://pika.art/) | 网页 | 视频生成、风格转换、视频延长，创意特效；Agent/MCP：https://creation.pika.art/mcp | 网页 | 免费+付费 | 8.5/10 |
+| [可灵 AI](https://klingai.com/) | 网页+移动 | 快手可灵，国产视频生成强者，图生视频、视频编辑；Agent/MCP：https://github.com/klingai-tech/claude-plugin（官方 Claude Code 插件）、https://kling.ai/mcp/plugin（全球）、https://klingai.com/mcp/plugin（中国区） | 网页/手机 | 免费+付费 | 8/10 |
 | [即梦 AI](https://jimeng.jianying.com/) | 网页+移动 | 字节出品，视频生成与编辑，与剪映生态联动 | 网页/手机 | 免费+付费 | 7.5/10 |
 | [Deep Swap AI](https://deepswapai.io/ai-face-swap-video) | 网页 | 在线视频/图片换脸，同一视频最多可换 6 人，官网自述支持 HD/4K 输出，免注册可免费试用 | 网页 | 免费试用 | 6.5/10 |
 | [Hotel Lobby AI Trend](https://hotellobbyaitrend.com/) | 网页 | 上传两张正脸照片生成「酒店大堂」橙色录音棚双人对唱模板视频（含声音），9:16/16:9，另有 Alors on Danse 白棚模板 | 网页 | 付费 | 6/10 |
