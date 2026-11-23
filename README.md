@@ -132,6 +132,8 @@
 | [Pika Labs](https://pika.art/) | 网页 | 视频生成、风格转换、视频延长，创意特效 | 网页 | 免费+付费 | 8.5/10 |
 | [可灵 AI](https://klingai.com/) | 网页+移动 | 快手可灵，国产视频生成强者，图生视频、视频编辑 | 网页/手机 | 免费+付费 | 8/10 |
 | [即梦 AI](https://jimeng.jianying.com/) | 网页+移动 | 字节出品，视频生成与编辑，与剪映生态联动 | 网页/手机 | 免费+付费 | 7.5/10 |
+| [Deep Swap AI](https://deepswapai.io/ai-face-swap-video) | 网页 | 在线视频/图片换脸，同一视频最多可换 6 人，官网自述支持 HD/4K 输出，免注册可免费试用 | 网页 | 免费试用 | 6.5/10 |
+| [Hotel Lobby AI Trend](https://hotellobbyaitrend.com/) | 网页 | 上传两张正脸照片生成「酒店大堂」橙色录音棚双人对唱模板视频（含声音），9:16/16:9，另有 Alors on Danse 白棚模板 | 网页 | 付费 | 6/10 |
 
 #### 工作流与效率工具
 
@@ -141,6 +143,7 @@
 | [LosslessCut](https://github.com/mifi/lossless-cut) | 开源 | 无损视频剪切，快速剪辑，保留原始画质 | Win/Mac/Linux | 免费 | 7/10 |
 | [pyJianYingDraft](https://github.com/GuanYixuan/pyJianYingDraft) | 开源 | Python 剪映草稿生成及导出工具，构建全自动化视频剪辑/混剪流水线（4.9k Stars，2026-11-22 仍在更新） | Win/Mac/Linux | 免费 | 8/10 |
 | [HandBrake](https://handbrake.fr/) | 开源 | 视频压缩、格式转换，开源免费 | 全平台 | 免费 | 6.5/10 |
+| [CutVoke](https://github.com/frankShan001/CutVoke) | 开源 | 本地优先的桌面剪辑器，内置 MCP 服务，Claude Code / Codex / Cursor 可直接编辑真实多轨时间线（剪切、字幕、音频），之后人可在同一工程继续手动精修，全本地运行、无需 API Key（MIT） | Win/Mac/Linux | 免费 | 7.5/10 |
 
 ---
 
